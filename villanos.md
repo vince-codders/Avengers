@@ -2,4 +2,3 @@
 
 * DR. DOOM
 * THANOS
-* Capitán America
